@@ -30,7 +30,7 @@ contacts =[
     },
     {
         'name': 'Prady',
-        'email': 'nikimohta@gmail.com',
+        'email': 'pradymohta@gmail.com',
         'number': 9831055555,
     }
 ]
