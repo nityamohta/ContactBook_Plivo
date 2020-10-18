@@ -21,12 +21,17 @@ contacts =[
     {
         'name': 'nitya',
         'email': 'nityamohta@gmail.com',
-        'number':8123003327,
+        'number': 9831044444,
     },
     {
         'name': 'nikita',
         'email': 'nikimohta@gmail.com',
-        'number':9830085759,
+        'number': 9831098310,
+    },
+    {
+        'name': 'Prady',
+        'email': 'pradymohta@gmail.com',
+        'number': 9831055555,
     }
 ]
 
